@@ -3,7 +3,9 @@ Hello Wolrd !
 This is my solution to the FrontendMentor.io Challenge "Todo App"
 
 It was coded in React.js without use of Hook :
+
     -> I've just learned React.js and wanted to understand the overall functioning of this framework;
+    
     -> Really nice for understanding State and how to use it;
 
 This is also the first project I've done with a theme. I mainly used the properties that JSX offers me to implement it, which is NOT a good idea in terms of performance. 
