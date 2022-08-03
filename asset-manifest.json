@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.1c546495.css",
+    "main.js": "/TodoApp/static/js/main.e1cb85ce.js",
+    "static/js/787.63e47474.chunk.js": "/TodoApp/static/js/787.63e47474.chunk.js",
+    "static/media/bg-desktop-light.jpg": "/TodoApp/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/TodoApp/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/TodoApp/index.html",
+    "static/media/icon-sun.svg": "/TodoApp/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/TodoApp/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "static/media/icon-cross.svg": "/TodoApp/static/media/icon-cross.6ee81d30b75cab19d6f7.svg",
+    "static/media/icon-check.svg": "/TodoApp/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.1c546495.css.map": "/TodoApp/static/css/main.1c546495.css.map",
+    "main.e1cb85ce.js.map": "/TodoApp/static/js/main.e1cb85ce.js.map",
+    "787.63e47474.chunk.js.map": "/TodoApp/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c546495.css",
+    "static/js/main.e1cb85ce.js"
+  ]
+}
